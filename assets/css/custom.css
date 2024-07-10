@@ -2,7 +2,7 @@
     --couleur-primaire : #0E6270;
 }
 
-p.test1 {
+div {
   white-space: nowrap;
   width: 200px;
   border: 1px solid #000000;
@@ -10,7 +10,7 @@ p.test1 {
   text-overflow: clip;
 }
 
-p.test2 {
+div {
   white-space: nowrap;
   width: 200px;
   border: 1px solid #000000;
