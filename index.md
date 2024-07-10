@@ -18,4 +18,6 @@ En somme, être un fan d’Apple pour moi, c’est bien plus qu’une simple pr�
 
 ![FANBOY APPLE]({% link images/FANBOY.jpg %}) 
 
+## **Apple Addict : Confessions d’un Amoureux de la Pomme**
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHQCvSbHW-k?si=jKEdb7YWfOHtb1-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
