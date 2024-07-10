@@ -19,6 +19,7 @@ in_menu: true
 </header>
 <div class="content">
      <section class="section">
+
        <h2>De la Pomme à la Pomme : Mon Odyssée Technologique 🍏😄</h2>
 <img src="{% link images/FANBOY.jpg%}" alt="Image de Fanboy" class="main-image">
        <p> Découvrez comment la technologie Apple a fait passer l’expérience de mon odyssée technologique de la simple pomme de terre à la pomme dorée ! Oui, les produits Apple transforment vraiment tout !</p>
