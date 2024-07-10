@@ -1,9 +1,51 @@
-:root {
-    --couleur-primaire : #0E6270;
+#main-title {
+       font-size: 2em;
+       color: #333;
+       text-align: center;
 }
 
-.header {
-Background-color: #3498db;
+.subtitle {
+      font-size: 1.5em;
+      color: #666;
+      text-align: center;
 }
+
+.main-text {
+      font-size: 1em;
+      color: #444;
+      margin: 20px;
+      text-align: justify;
+}
+
+.main-image {
+      display: block;
+      margin: 0 auto;
+      max-widht: 100%;
+      height: auto;
+}
+
+#apple-addict-title {
+       font-size: 1.75em;
+       color: #007bff;
+       text-align: center;
+       margin-top: 20px;
+}
+
+.youtube-video {
+      display: block;
+      margin: 20px auto;
+      max-widht: 100%;
+      height: auto;
+}
+
+.quote {
+      font-size: 1.2em;
+      color: #999;
+      font-style: italic;
+      margin: 20px;
+      text-align: center;
+}
+
+
 
 
