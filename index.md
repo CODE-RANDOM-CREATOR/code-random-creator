@@ -17,3 +17,5 @@ En ce qui concerne les accessoires, je suis un grand fan des AirPods. Leur quali
 En somme, être un fan d’Apple pour moi, c’est bien plus qu’une simple préférence pour une marque. C’est un mode de vie, une passion pour l’innovation et la qualité. Et je suis impatient de voir ce que l’avenir nous réserve avec les prochaines sorties d’Apple ! 🍎✨
 
 ![FANBOY APPLE]({% link images/FANBOY.jpg %}) 
+
+<img src="https://www.youtube.com/watch?v=EHQCvSbHW-k"> 
