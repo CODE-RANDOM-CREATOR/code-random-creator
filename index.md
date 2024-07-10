@@ -20,7 +20,7 @@ En somme, être un fan d’Apple pour moi, c’est bien plus qu’une simple pr�
 
 
 
-<img src="({% link images/FANBOY.jpg %})" alt="Image" class="main-image"> 
+<img src="images/FANBOY.jpg" alt="Image" class="main-image"> 
 
 <h3 id="apple-addict-title">Apple Addict : Confessions d’un Amoureux de la Pomme</h3>
 
