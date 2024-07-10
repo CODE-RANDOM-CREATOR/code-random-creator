@@ -1,14 +1,36 @@
 body {
-      background-color: #f2f2f2;
+      background: linear-gradient ( to right, #eaf4fc, #f5f5dc);
       color: #333;
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
+}
 
 #main-title {
        font-size: 2em;
        color: #333;
        text-align: center;
+       margin-top: 20px;
+       animation: fadeIn 2s ease-in-out;
+       text-shadow: 2px 2px 4px rgba (0, 0, 0, 0.2);
+}
+
+@keyframes fadeIn {
+       from { opacity: 0; }
+       to { opacity: 1; }
+}
+
+.main-image {
+      display: block;
+      margin: 0 auto;
+      max-widht: 100%;
+      height: auto;
+      border-radius: 8px;
+      transition: transform 0.3s ease;
+}
+
+.main-image:hover {
+      transform: scale (1.05);
 }
 
 .subtitle {
@@ -22,13 +44,10 @@ body {
       color: #444;
       margin: 20px;
       text-align: justify;
-}
-
-.main-image {
-      display: block;
-      margin: 0 auto;
-      max-widht: 100%;
-      height: auto;
+      box-shadow: 0 4px 8px rgba (0, 0, 0, 0.1);
+      padding: 10px;
+      border-raduis: 8px;
+      background: #fff;
 }
 
 #apple-addict-title {
@@ -36,6 +55,8 @@ body {
        color: #007bff;
        text-align: center;
        margin-top: 20px;
+       font-family: 'Pacifico' , cursive;
+       text-shadow: 2px 2px 4px rgba (0, 0, 0, 0.2);
 }
 
 .youtube-video {
@@ -51,6 +72,22 @@ body {
       font-style: italic;
       margin: 20px;
       text-align: center;
+      border-left: 4px solid #007bff;
+      padding-left: 15px;
+}
+
+.button {
+     background-color: #007bff;
+     color: #fff;
+     padding: 10px 20 px;
+     border: none;
+     border-radius: 5px;
+     cursor: pointer;
+     transition: background-color 0.3s ease;
+}
+
+.button:hover {
+     background-color: #0056b3;
 }
 
 
