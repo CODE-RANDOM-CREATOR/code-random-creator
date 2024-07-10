@@ -18,4 +18,4 @@ En somme, être un fan d’Apple pour moi, c’est bien plus qu’une simple pr�
 
 ![FANBOY APPLE]({% link images/FANBOY.jpg %}) 
 
-<img src="https://www.youtube.com/watch?v=EHQCvSbHW-k"> 
+(https://www.youtube.com/watch?v=EHQCvSbHW-k) 
