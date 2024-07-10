@@ -1,9 +1,21 @@
 body {
-      background: linear-gradient ( to right, #eaf4fc, #f5f5dc);
-      color: #333;
       font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      color: #333;
       margin: 0;
       padding: 0;
+}
+
+header, footer {
+       background-color:#007BFF;
+       color: White;
+       text-align: center;
+       padding: 10px 0;
+}
+
+h1 {
+     margin: 0;
+     font-Suez: 2em;
 }
 
 #main-title {
