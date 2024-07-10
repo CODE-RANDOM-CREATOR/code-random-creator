@@ -18,7 +18,7 @@ in_menu: true
        <h1 id="main-title">Bienvenue dans l’univers des Fanboys Apple</h1>
 </header>
 <div class="content">
-     <section class="section">br
+     <section class="section">
 
        <h2>De la Pomme à la Pomme : Mon Odyssée Technologique 🍏😄</h2>
 <img src="{% link images/FANBOY.jpg%}" alt="Image de Fanboy" class="main-image">
