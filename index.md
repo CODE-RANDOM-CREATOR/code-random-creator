@@ -27,6 +27,4 @@ En somme, être un fan d’Apple pour moi, c’est bien plus qu’une simple pr�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EHQCvSbHW-k?si=jKEdb7YWfOHtb1-D" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> 
 
 
->Pourquoi les fanboys Apple ne jouent-ils jamais aux échecs ? Parce qu’ils ne peuvent pas gérer un échec sans un Genius Bar !” 😄🍎
-
-Et n’oubliez pas, même si les fanboys Apple sont passionnés, il vaut mieux garder un peu d’humour dans l’écosystème Cupertino ! 😉📱 
+>Et n’oubliez pas, même si les fanboys Apple sont passionnés, il vaut mieux garder un peu d’humour dans l’écosystème Cupertino ! 😉📱 
