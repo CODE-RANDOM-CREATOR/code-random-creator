@@ -3,8 +3,6 @@ title: "Accueil"
 order: 0
 in_menu: true
 ---
-< ! DOCTYPE html>
-
 <html lang="fr">
 <head>
        <meta charset="UTF-8">
@@ -53,6 +51,4 @@ En somme, être un fan d’Apple pour moi, c’est bien plus qu’une simple pr�
 <footer>
       <button class="button">En savoir plus</button>
 <p>&copy; 2024 Fanboy Apple-Tous droits réservés (pour éviter les poursuites Apple) !</p>
-</footer>
-</body>
-</html> 
+</footer> 
